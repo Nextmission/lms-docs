@@ -5,6 +5,7 @@ export default defineConfig({
     title: "LMS",
     description: "Learning Management System",
     srcDir: "./src",
+    base: "/lms-docs/",
     themeConfig: {
         nav: [
             { text: "Home", link: "/" },
