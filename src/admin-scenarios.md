@@ -1,0 +1,22 @@
+# Admin Scenarios
+- add course
+	- price: free / non-free
+	- sections
+		- lessons (free/non-free)
+			- learn materilas
+			- video
+		-  quiz
+- course category
+- card to buy course online (Point of Sale)
+- blog post
+- cms (with comments and reactions)
+- activate which platform, the student is allowed to use
+- permission systems
+- enrollments
+	- enrolled students
+	- add student to a course
+- Qustion Bank
+	- use qeustion from the question bank to create quizes and exams
+	- thy are categorized by course / section
+- Exams
+	- use questions from teh question bank

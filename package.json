@@ -1,0 +1,25 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "[Start Reading Here](Overview.md)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nextmission/lms-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nextmission/lms-docs/issues"
+  },
+  "homepage": "https://github.com/Nextmission/lms-docs#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
